@@ -17,10 +17,11 @@ The projects will be split into a fundamental and advanced sections. Fundamental
 | ----- | -------------- |
 | Description | Level up the Hello World. Le'ts light up a single external LED |
 | Hardware: | 
-		* 1 LED
-		* 1 220 Ω resistor
-		* 1 wire
-		* Arduino & USB cable
+<ul><li>1 LED<li>
+<li>1 220 Ω resistor<li>
+<li>1 wire<li>
+<li>Arduino & USB cable<li>
+<ul>
 |
 3. Create a blinking LED Wave:
 	* Let’s light up some LEDs! You will need to light up 5 LEDs in a row, in a wave light pattern. Like the TV show car KITT from knight rider.

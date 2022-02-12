@@ -5,8 +5,22 @@ The focus here is on learning to work with the arduino in a weekend, we will not
 
 The projects will be split into a fundamental and advanced sections. Fundamental projects will introduce students to the basics of working with an Arduino, designing schematics, and controlling inputs and outputs. From there, students will have the option to create anything they want, or if they don't know what to make, can continue to follow a set of advanced projects.
 
-## Foundation Project List
-Many of these projects are taken from the book [Arduino Workshop: A hands-on introduction with 65 projects](https://books.google.fi/books/about/Arduino_Workshop.html?id=PUm8tCA6L-kC&printsec=frontcover&source=kp_read_button&hl=en&redir_esc=y#v=onepage&q&f=false) by John Boxall. It's a great book with many fun projects. We have compressed some of the foundational projects in this "Piscine" to get you started. It is highly advisable to checkout this book, to help you figure out how to approach these exercises.
+## Safety
+As with any hobby or craft, you are responsible to take care of yourself and those around you. Especially when working with electronics, take extra-precaution and please use common sense. You will be working with basic hand tools, battery powered electrical devices, and cutters. It can be easy to damage arduino boards if you are not careful, so if you have any uncertainties or questions, it's best to inform yourself before trying anything you're unsure about.
+
+At **NO POINT** will you be required to use soldering irons or work with the mains current on campus. Not should you... Soldering irons are a fire hazard on campus, and contacting the mains current will kill you. You've been warned. Please don't be stupid.
+
+## Foundation Projects
+Many of these projects are taken from the book [Arduino Workshop: A hands-on introduction with 65 projects](https://books.google.fi/books/about/Arduino_Workshop.html?id=PUm8tCA6L-kC&printsec=frontcover&source=kp_read_button&hl=en&redir_esc=y#v=onepage&q&f=false) by John Boxall. It's a great book with many fun projects. We have compressed some of the foundational projects in this "Piscine" to get you started. It is advisable to check this book, it will help you figure out how to approach these exercises. The google preview should be enough to give you what you need.
+
+With these projects, you will learn:
+* Concepts of good project design
+* Basic properties of electricity
+* About the resistor, light-emitting diode (LED), breadboard, transistor, rectifier diode, relay,and capacitor.
+* How to read schematics, and the language of electronic circuits.
+* How to use digital input and outputs to create light effects
+
+Now go forth budding engineers, let there be photons.
 
 | Ex 01 | Hello World |
 | ------| ----------- |
@@ -30,10 +44,10 @@ Many of these projects are taken from the book [Arduino Workshop: A hands-on int
 
 | Ex 05 | Implement a digital input |
 | ----- | ------------------------- |
-| Description | Implement a button that turns on an LED for half a second when pressed |
+| Description | Implement a button that turns on an LED for half a second when pressed. At this point it would be a **really good idea** to start looking into schematic diagrams. |
 | Hardware | <ul><li>1 push button</li><li>1 LED</li><li>1 560 Ω resistor</li><li>1 10 kΩ resistor</li><li>1 100 nF capacitor</li><li>Various connecting wires</li><li>1 breadboard</li></ul> |
 
 | Ex 06 | Traffic lights |
 | ----- | -------------- |
 | Description | Pretend there is a single lane bridge. You must implement 2 sets of traffic lights at each end of this bridge. The lights will allow traffic to flow only in one direction at a time. When sensors at either end of a bridge detect a car waiting at a red light, the lights will change to allow traffic to flow in the opposite direction. |
-| Hardware | <ul><li>2 red LEDs (LED1 and LED2)</li><li>2 yellow LEDs (LED3 and LED4)</li><li>2 green LEDs (LED5 and LED6)</li><li>6 60 W resistors (R1 to R6)</li><li>2 10 kW resistor (R7 and R8)</li><li>2 100 nF capacitors (C1 and C2)</li><li>2 push buttons (S1 and S2)</li><li>1 medium-sized breadboard</li><li>1 Arduino and USB cable</li><li>Various connecting wires</li></ul> |
+| Hardware | <ul><li>2 red LEDs (LED1 and LED2)</li><li>2 yellow LEDs (LED3 and LED4)</li><li>2 green LEDs (LED5 and LED6)</li><li>6 60 Ω resistors (R1 to R6)</li><li>2 10 kΩ resistor (R7 and R8)</li><li>2 100 nF capacitors (C1 and C2)</li><li>2 push buttons (S1 and S2)</li><li>1 medium-sized breadboard</li><li>1 Arduino and USB cable</li><li>Various connecting wires</li></ul> |

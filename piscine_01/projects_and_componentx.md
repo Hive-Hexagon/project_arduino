@@ -18,7 +18,7 @@ Many of these projects are taken from the book [Arduino Workshop: A hands-on int
 With these projects, you will learn:
 * Concepts of good project design
 * Basic properties of electricity
-* About the resistor, light-emitting diode (LED), breadboard, transistor, rectifier diode, relay,and capacitor.
+* About the resistor, light-emitting diode (LED), breadboard, transistor, rectifier diode, relay, and capacitor.
 * How to read schematics, and the language of electronic circuits.
 * How to use digital input and outputs to create light effects
 

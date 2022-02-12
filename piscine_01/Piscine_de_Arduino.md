@@ -5,7 +5,7 @@ The Arduino Piscine is designed with projects that gradually increase in complex
 
 The focus here is on learning to work with the Arduino in a weekend, we will not have strict norm requirements for the project. The idea is to give you an introduction to embedded systems, and inspire you to make amazing projects. After this Piscine, the equipment will stay on campus for you to use, we hope you will revisit your projects and continue developing them in the future.
 
-The projects will be split into [fundamental](## Foundation Projects) and advanced sections. Fundamental projects will introduce you to the basics of working with an Arduino, designing schematics, and controlling inputs and outputs. From there, you will have the option to create anything you want. If you don't know what to make, you can continue to follow the advanced projects.
+The projects will be split into [fundamental](# Foundation Projects) and advanced sections. Fundamental projects will introduce you to the basics of working with an Arduino, designing schematics, and controlling inputs and outputs. From there, you will have the option to create anything you want. If you don't know what to make, you can continue to follow the advanced projects.
 
 ## Safety
 As with any hobby or craft, you are responsible to take care of yourself and those around you. Especially when working with electronics, take extra-precaution and please use common sense. You will be working with basic hand tools, battery powered electrical devices, and cutters. It can be easy to damage Arduino boards if you are not careful, so if you have any uncertainties or questions, it's best to inform yourself before trying anything you're unsure about.

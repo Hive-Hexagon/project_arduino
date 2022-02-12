@@ -5,9 +5,8 @@ The focus here is on learning to work with the arduino in a short weekend, we wi
 
 The projects will be split into a fundamental and advanced sections. Fundamental projects will introduce students to the basics of working with an Arduino, and controlling inputs and outputs. From there, students will have the option to create anything they want, or if they don't know what to make, can continue to follow a set of advanced projects.
 
-## Project List
+## Foundation Project List
 
-### Foundation
 | Ex 01 | Hello World |
 | ------| ----------- |
 | Description | The Hello World of an Arduino! Figure out how to blink the little L LED light on the Arduino board. |
@@ -31,25 +30,9 @@ The projects will be split into a fundamental and advanced sections. Fundamental
 | Ex 05 | Implement a digital input |
 | ----- | ------------------------- |
 | Description | Implement a button that turns on an LED for half a second when pressed |
-| Hardware |
-<ul><li>1 push button</li>
-<li>1 LED</li>
-<li>1 560 Ω resistor</li>
-<li>1 10 kΩ resistor</li>
-<li>1 100 nF capacitor</li>
-<li>Various connecting wires</li>
-<li>1 breadboard</li></ul> |
+| Hardware | <ul><li>1 push button</li><li>1 LED</li><li>1 560 Ω resistor</li><li>1 10 kΩ resistor</li><li>1 100 nF capacitor</li><li>Various connecting wires</li><li>1 breadboard</li></ul> |
 
-6. Traffic lights
-	* Pretend there is a single lane bridge. You must implement 2 sets of three-color traffic lights at each end of this bridge. The lights will allow traffic to flow only in one direction at a time. When sensors at either end of a bridge detect a car waiting at a red light, the lights will change to allow traffic to flow in the opposite direction.
-	* Hardware:
-		* Two red LEDs (LED1 and LED2)
-		* Two yellow LEDs (LED3 and LED4)
-		* Two green LEDs (LED5 and LED6)
-		* Six 560 W resistors (R1 to R6)
-		* Two 10 kW resistor (R7 and R8)
-		* Two 100 nF capacitors (C1 and C2)
-		* Two push buttons (S1 and S2)
-		* One medium-sized breadboard
-		* One Arduino and USB cable
-		* Various connecting wires
+| Ex 06 | Traffic lights |
+| ----- | -------------- |
+| Description | Pretend there is a single lane bridge. You must implement 2 sets of traffic lights at each end of this bridge. The lights will allow traffic to flow only in one direction at a time. When sensors at either end of a bridge detect a car waiting at a red light, the lights will change to allow traffic to flow in the opposite direction. |
+| Hardware | <ul><li>2 red LEDs (LED1 and LED2)</li><li>2 yellow LEDs (LED3 and LED4)</li><li>2 green LEDs (LED5 and LED6)</li><li>6 60 W resistors (R1 to R6)</li><li>2 10 kW resistor (R7 and R8)</li><li>2 100 nF capacitors (C1 and C2)</li><li>2 push buttons (S1 and S2)</li><li>1 medium-sized breadboard</li><li>1 Arduino and USB cable</li><li>Various connecting wires</li></ul> |

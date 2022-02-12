@@ -22,7 +22,8 @@ With these projects, you will learn:
 * How to read schematics, and the language of electronic circuits.
 * How to use digital input and outputs to create light effects
 
-Now go forth budding engineers, let there be photons. ![](https://media.giphy.com/media/31nxeV6V6ecgw/giphy.gif)
+Now go forth budding engineers, let there be photons.
+![](https://media.giphy.com/media/31nxeV6V6ecgw/giphy.gif)
 
 ### Exercise 01
 | Ex 01 | Hello World |

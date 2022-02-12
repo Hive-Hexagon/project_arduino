@@ -15,27 +15,31 @@ The projects will be split into a fundamental and advanced sections. Fundamental
 
 | Ex 02 | Hello World v2 |
 | ----- | -------------- |
-| Description | Level up the Hello World. Le'ts light up a single external LED |
+| Description | Level up the Hello World. Light up a single external LED |
 | Hardware: | <ul><li>1 LED</li><li>1 220 Ω resistor</li><li>1 wire</li><li>1 Arduino & USB cable</li></ul> |
 
-| Ex 02 | Blinking LED Wave |
+| Ex 03 | Blinking LED Wave |
 | ----- | ----------------- |
 | Description | Let’s light an LED Wave! You will need to light up 5 LEDs in a row, in a wave light pattern. Like the TV show car KITT from knight rider. |
-| Hardware | <ul><li>5 LEDs</li><li>5 560 Ω resistors</li><li>One breadboard</li><li>Bunch of connecting wires</li><li>Arduino & USB cable</li></ul> |
-4. Demonstrate a Pulse-width modulation (PWM):
-	* Create a “breathing effect” on light 3 from the project above.
-	* Hardware:
-		* Same as 3.
-5. Demonstrate digital input
-	* Implement a button that turns on an LED for half a second when pressed
-	* Hardware:
-		* One push button
-		* One LED
-		* One 560 Ω resistor
-		* One 10 kΩ resistor
-		* One 100 nF capacitor
-		* Various connecting wires
-		* One breadboard
+| Hardware | <ul><li>5 LEDs</li><li>5 560 Ω resistors</li><li>1 breadboard</li><li>Bunch of connecting wires</li><li>1 Arduino & USB cable</li></ul> |
+
+| Ex 04 | Demonstrate a Pulse-width Modulation (PWM) |
+| ----- | ------------------------------------------ |
+| Description | Create a “breathing effect” on light 3 from the project above. |
+| Hardware | Same as Ex 03 |
+
+| Ex 05 | Implement a digital input |
+| ----- | ------------------------- |
+| Description | Implement a button that turns on an LED for half a second when pressed |
+| Hardware |
+<ul><li>1 push button</li>
+<li>1 LED</li>
+<li>1 560 Ω resistor</li>
+<li>1 10 kΩ resistor</li>
+<li>1 100 nF capacitor</li>
+<li>Various connecting wires</li>
+<li>1 breadboard</li></ul> |
+
 6. Traffic lights
 	* Pretend there is a single lane bridge. You must implement 2 sets of three-color traffic lights at each end of this bridge. The lights will allow traffic to flow only in one direction at a time. When sensors at either end of a bridge detect a car waiting at a red light, the lights will change to allow traffic to flow in the opposite direction.
 	* Hardware:

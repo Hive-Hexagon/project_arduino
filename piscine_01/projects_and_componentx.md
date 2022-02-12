@@ -9,7 +9,7 @@ The projects will be split into a fundamental and advanced sections. Fundamental
 
 ### Foundation
 | Ex 01 | Hello World |
-| ------------------------------ |
+| ------| ----------- |
 | Description | The Hello World of an Arduino! Figure out how to blink the little L LED light on the Arduino board. |
 | Hardware | Arduino & USB cable |
 2. Blink a single LED light:

@@ -16,16 +16,12 @@ The projects will be split into a fundamental and advanced sections. Fundamental
 | Ex 02 | Hello World v2 |
 | ----- | -------------- |
 | Description | Level up the Hello World. Le'ts light up a single external LED |
-| Hardware: | <ul><li>1 LED</li><li>1 220 Ω resistor</li><li>1 wire</li><li>Arduino & USB cable</li></ul> |
+| Hardware: | <ul><li>1 LED</li><li>1 220 Ω resistor</li><li>1 wire</li><li>1 Arduino & USB cable</li></ul> |
 
-3. Create a blinking LED Wave:
-	* Let’s light up some LEDs! You will need to light up 5 LEDs in a row, in a wave light pattern. Like the TV show car KITT from knight rider.
-	* Hardware:
-		* 5 LEDs
-		* 5 560 Ω resistors
-		* One breadboard
-		* Bunch of connecting wires
-		* Arduino & USB cable
+| Ex 02 | Blinking LED Wave |
+| ----- | ----------------- |
+| Description | Let’s light an LED Wave! You will need to light up 5 LEDs in a row, in a wave light pattern. Like the TV show car KITT from knight rider. |
+| Hardware | <ul><li>5 LEDs</li><li>5 560 Ω resistors</li><li>One breadboard</li><li>Bunch of connecting wires</li><li>Arduino & USB cable</li></ul> |
 4. Demonstrate a Pulse-width modulation (PWM):
 	* Create a “breathing effect” on light 3 from the project above.
 	* Hardware:

@@ -1,7 +1,7 @@
 # Projects and components
 The Arduino Piscine projects are designed to increase in complexity. Since the hardware components will be reused for each project, you are instructed to record videos of your working project in action. The videos will be used for evaluations. The videos will need to demonstrate that your project works as expected.
 
-The focus here is on learning to work with the Arduino in a weekend, we will not have strict norm requirements for the project. The idea is to give you an introduction to embedded systems, and inspire you to make amazing proejcts. After this Piscine, the equipment will be around on campus for you to us, we hope you will revisit your projects and continue developing them in the future.
+The focus here is on learning to work with the Arduino in a weekend, we will not have strict norm requirements for the project. The idea is to give you an introduction to embedded systems, and inspire you to make amazing projects. After this Piscine, the equipment will stay on campus for you to use, we hope you will revisit your projects and continue developing them in the future.
 
 The projects will be split into fundamental and advanced sections. Fundamental projects will introduce you to the basics of working with an Arduino, designing schematics, and controlling inputs and outputs. From there, you will have the option to create anything you want. If you don't know what to make, you can continue to follow the advanced projects.
 

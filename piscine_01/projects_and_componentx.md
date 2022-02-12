@@ -8,7 +8,7 @@ The projects will be split into a fundamental and advanced sections. Fundamental
 ## Project List
 
 ### Foundation
-| Ex 01: Hello World |
+| Ex 01 | Hello World |
 | ------------------------------ |
 | Description | The Hello World of an Arduino! Figure out how to blink the little L LED light on the Arduino board. |
 | Hardware | Arduino & USB cable |

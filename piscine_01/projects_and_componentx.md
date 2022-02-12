@@ -1,5 +1,5 @@
 # Projects and components
-The Arduino Piscine projects are designed to increase in complexity. Since the hardware components will be reused for each project, students will be instructed to record videos of their project working. The videos will be used for final evaluations.
+The Arduino Piscine projects are designed to increase in complexity. Since the hardware components will be reused for each project, students will be instructed to record videos of their working project in action. The videos will be used for final evaluations.
 
 The focus here is on learning to work with the arduino in a short weekend, we will not have strict norm requirements for the project. Students only need to demonstrate a working  product with a recording of each project.
 
@@ -9,6 +9,7 @@ The projects will be split into a fundamental and advanced sections. Fundamental
 
 ### Foundation
 1. Blink the ‘L’ LED light on the Arduino board.
+
 	a. The Hello World of an Arduino! Figure out how to blink the little L light on the Arduino board.
 	b. Hardware:
 		* Arduino & USB cable

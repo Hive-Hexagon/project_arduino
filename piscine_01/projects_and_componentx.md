@@ -24,31 +24,37 @@ With these projects, you will learn:
 
 Now go forth budding engineers, let there be photons.
 
+### Exercise 01
 | Ex 01 | Hello World |
 | ------| ----------- |
 | Description | The Hello World of an Arduino! Figure out how to blink the little L LED light on the Arduino board. |
 | Hardware | 1 Arduino & USB cable |
 
+### Exercise 02
 | Ex 02 | Hello World v2 |
 | ----- | -------------- |
 | Description | Level up the Hello World. Light up a single external LED |
 | Hardware: | <ul><li>1 LED</li><li>1 220 Ω resistor</li><li>1 wire</li><li>1 Arduino & USB cable</li></ul> |
 
+### Exercise 03
 | Ex 03 | Blinking LED Wave |
 | ----- | ----------------- |
 | Description | Let’s light an LED Wave! You will need to light up 5 LEDs in a row, in a wave light pattern. Like the TV show car KITT from knight rider. |
 | Hardware | <ul><li>5 LEDs</li><li>5 560 Ω resistors</li><li>1 breadboard</li><li>Bunch of connecting wires</li><li>1 Arduino & USB cable</li></ul> |
 
+### Exercise 04
 | Ex 04 | Demonstrate a Pulse-width Modulation (PWM) |
 | ----- | ------------------------------------------ |
 | Description | Create a “breathing effect” on light 3 from the project above. |
 | Hardware | Same as Ex 03 |
 
+### Exercise 05
 | Ex 05 | Implement a digital input |
 | ----- | ------------------------- |
 | Description | Implement a button that turns on an LED for half a second when pressed. At this point it would be a **really good idea** to start looking into schematic diagrams. |
 | Hardware | <ul><li>1 push button</li><li>1 LED</li><li>1 560 Ω resistor</li><li>1 10 kΩ resistor</li><li>1 100 nF capacitor</li><li>Various connecting wires</li><li>1 breadboard</li></ul> |
 
+### Exercise 06
 | Ex 06 | Traffic lights |
 | ----- | -------------- |
 | Description | Pretend there is a single lane bridge. You must implement 2 sets of traffic lights at each end of this bridge. The lights will allow traffic to flow only in one direction at a time. When sensors at either end of a bridge detect a car waiting at a red light, the lights will change to allow traffic to flow in the opposite direction. |

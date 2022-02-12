@@ -1,11 +1,12 @@
 # Projects and components
 The Arduino Piscine projects are designed to increase in complexity. Since the hardware components will be reused for each project, students will be instructed to record videos of their working project in action. The videos will be used for final evaluations.
 
-The focus here is on learning to work with the arduino in a short weekend, we will not have strict norm requirements for the project. Students only need to demonstrate a working  product with a recording of each project.
+The focus here is on learning to work with the arduino in a weekend, we will not have strict norm requirements for the project. Students can continue developing their projects after the weekend, as there is so much more to learn than what is possible in a weekend. Students only need to demonstrate a working  product with a recording of each project.
 
-The projects will be split into a fundamental and advanced sections. Fundamental projects will introduce students to the basics of working with an Arduino, and controlling inputs and outputs. From there, students will have the option to create anything they want, or if they don't know what to make, can continue to follow a set of advanced projects.
+The projects will be split into a fundamental and advanced sections. Fundamental projects will introduce students to the basics of working with an Arduino, designing schematics, and controlling inputs and outputs. From there, students will have the option to create anything they want, or if they don't know what to make, can continue to follow a set of advanced projects.
 
 ## Foundation Project List
+Many of these projects are taken from the book [Arduino Workshop: A hands-on introduction with 65 projects](https://books.google.fi/books/about/Arduino_Workshop.html?id=PUm8tCA6L-kC&printsec=frontcover&source=kp_read_button&hl=en&redir_esc=y#v=onepage&q&f=false) by John Boxall. It's a great book with many fun projects. We have compressed some of the foundational projects in this "Piscine" to get you started. It is highly advisable to checkout this book, to help you figure out how to approach these exercises.
 
 | Ex 01 | Hello World |
 | ------| ----------- |

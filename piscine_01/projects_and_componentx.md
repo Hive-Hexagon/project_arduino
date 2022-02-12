@@ -31,4 +31,26 @@ The projects will be split into a fundamental and advanced sections. Fundamental
 	* Create a “breathing effect” on light 3 from the project above.
 	* Hardware:
 		* Same as 3.
-
+5. Demonstrate digital input
+	* Implement a button that turns on an LED for half a second when pressed
+	* Hardware:
+		* One push button
+		* One LED
+		* One 560 Ω resistor
+		* One 10 kΩ resistor
+		* One 100 nF capacitor
+		* Various connecting wires
+		* One breadboard
+6. Traffic lights
+	* Pretend there is a single lane bridge. You must implement 2 sets of three-color traffic lights at each end of this bridge. The lights will allow traffic to flow only in one direction at a time. When sensors at either end of a bridge detect a car waiting at a red light, the lights will change to allow traffic to flow in the opposite direction.
+	* Hardware:
+		* Two red LEDs (LED1 and LED2)
+		* Two yellow LEDs (LED3 and LED4)
+		* Two green LEDs (LED5 and LED6)
+		* Six 560 W resistors (R1 to R6)
+		* Two 10 kW resistor (R7 and R8)
+		* Two 100 nF capacitors (C1 and C2)
+		* Two push buttons (S1 and S2)
+		* One medium-sized breadboard
+		* One Arduino and USB cable
+		* Various connecting wires

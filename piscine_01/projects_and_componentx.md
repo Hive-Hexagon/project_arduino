@@ -10,7 +10,8 @@ As with any hobby or craft, you are responsible to take care of yourself and tho
 
 At **NO POINT** will you be required to use soldering irons or work with the mains current on campus. Not should you... Soldering irons are a fire hazard on campus, and contacting the mains current will kill you. You've been warned. Please don't be stupid, don't do anything dangerous.
 
-<iframe src="https://giphy.com/embed/LpkLWXTp0v0qy70xPp" width="480" height="350" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/danger-steve-irwin-the-crocodile-hunter-LpkLWXTp0v0qy70xPp">via GIPHY</a></p>
+![](https://media.giphy.com/media/LpkLWXTp0v0qy70xPp/giphy.gif)
+
 ## Foundation Projects
 Many of these projects are taken from the book [Arduino Workshop: A hands-on introduction with 65 projects](https://books.google.fi/books/about/Arduino_Workshop.html?id=PUm8tCA6L-kC&printsec=frontcover&source=kp_read_button&hl=en&redir_esc=y#v=onepage&q&f=false) by John Boxall. It's a great book with many fun projects. We have compressed some of the foundational projects in this "Piscine" to get you started. It is advisable to check this book, it will help you figure out how to approach these exercises. The google preview should be enough to give you what you need.
 

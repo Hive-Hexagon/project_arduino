@@ -11,16 +11,12 @@ The projects will be split into a fundamental and advanced sections. Fundamental
 | Ex 01 | Hello World |
 | ------| ----------- |
 | Description | The Hello World of an Arduino! Figure out how to blink the little L LED light on the Arduino board. |
-| Hardware | Arduino & USB cable |
+| Hardware | 1 Arduino & USB cable |
 
 | Ex 02 | Hello World v2 |
 | ----- | -------------- |
 | Description | Level up the Hello World. Le'ts light up a single external LED |
-| Hardware: | <ul><li>1 LED</li>
-<li>1 220 Ω resistor</li>
-<li>1 wire</li>
-<li>Arduino & USB cable</li>
-</ul> |
+| Hardware: | <ul><li>1 LED</li><li>1 220 Ω resistor</li><li>1 wire</li><li>Arduino & USB cable</li></ul> |
 
 3. Create a blinking LED Wave:
 	* Let’s light up some LEDs! You will need to light up 5 LEDs in a row, in a wave light pattern. Like the TV show car KITT from knight rider.

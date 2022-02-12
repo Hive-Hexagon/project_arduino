@@ -13,22 +13,22 @@ The projects will be split into a fundamental and advanced sections. Fundamental
 	* Hardware:
 		* Arduino & USB cable
 2. Blink a single LED light:
-    * Upgrade the Hello World. Let’s light up a single external LED light!  
-	b. Hardware:  
+	* Upgrade the Hello World. Let’s light up a single external LED light!
+	* Hardware:
 		* 1 LED
 		* 1 220 Ω resistor
 		* 1 wire
 		* Arduino & USB cable
 3. Create a blinking LED Wave:
-	a. Let’s light up some LEDs! You will need to light up 5 LEDs in a row, in a wave light pattern. Like the TV show car KITT from knight rider.
-	b. Hardware:
+	* Let’s light up some LEDs! You will need to light up 5 LEDs in a row, in a wave light pattern. Like the TV show car KITT from knight rider.
+	* Hardware:
 		* 5 LEDs
 		* 5 560 Ω resistors
 		* One breadboard
 		* Bunch of connecting wires
 		* Arduino & USB cable
 4. Demonstrate a Pulse-width modulation (PWM):
-	a. Create a “breathing effect” on light 3 from the project above.
-	b. Hardware:
+	* Create a “breathing effect” on light 3 from the project above.
+	* Hardware:
 		* Same as 3.
 

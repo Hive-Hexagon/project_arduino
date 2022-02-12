@@ -9,7 +9,7 @@ The projects will be split into a fundamental and advanced sections. Fundamental
 As with any hobby or craft, you are responsible to take care of yourself and those around you. Especially when working with electronics, take extra-precaution and please use common sense. You will be working with basic hand tools, battery powered electrical devices, and cutters. It can be easy to damage arduino boards if you are not careful, so if you have any uncertainties or questions, it's best to inform yourself before trying anything you're unsure about.
 
 At **NO POINT** will you be required to use soldering irons or work with the mains current on campus. Not should you... Soldering irons are a fire hazard on campus, and contacting the mains current will kill you. You've been warned. Please don't be stupid.
-![](https://c.tenor.com/P3IhANYW7-0AAAAd/joker-dont-say-i-didnt-warn-you.gif)
+![joker](https://c.tenor.com/P3IhANYW7-0AAAAd/joker-dont-say-i-didnt-warn-you.gif)
 
 ## Foundation Projects
 Many of these projects are taken from the book [Arduino Workshop: A hands-on introduction with 65 projects](https://books.google.fi/books/about/Arduino_Workshop.html?id=PUm8tCA6L-kC&printsec=frontcover&source=kp_read_button&hl=en&redir_esc=y#v=onepage&q&f=false) by John Boxall. It's a great book with many fun projects. We have compressed some of the foundational projects in this "Piscine" to get you started. It is advisable to check this book, it will help you figure out how to approach these exercises. The google preview should be enough to give you what you need.

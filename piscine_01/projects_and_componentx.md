@@ -8,7 +8,7 @@ The projects will be split into fundamental and advanced sections. Fundamental p
 ## Safety
 As with any hobby or craft, you are responsible to take care of yourself and those around you. Especially when working with electronics, take extra-precaution and please use common sense. You will be working with basic hand tools, battery powered electrical devices, and cutters. It can be easy to damage Arduino boards if you are not careful, so if you have any uncertainties or questions, it's best to inform yourself before trying anything you're unsure about.
 
-At **NO POINT** will you be required to use soldering irons or work with the mains current on campus. Not should you... Soldering irons are a fire hazard on campus, and contacting the mains current will kill you. You've been warned. Please don't be stupid, don't do anything dangerous.
+At **NO POINT** will you be required to use soldering irons or work with the mains current on campus. Nor should you... Soldering irons are a fire hazard on campus, and contacting the mains current will kill you. You've been warned. Please don't be stupid, don't do anything dangerous.
 
 [![](https://media.giphy.com/media/LpkLWXTp0v0qy70xPp/giphy.gif)](https://www.youtube.com/watch?v=mvDi_O8fgCY)
 

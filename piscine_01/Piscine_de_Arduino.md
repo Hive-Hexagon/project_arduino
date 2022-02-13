@@ -1,11 +1,13 @@
 # Piscine de Arduino
 *pedago: cchen@student.hive.fi*
 
+What we aim to achieve with this Arduino Piscine is to introduce you to a powerful idea. The ideathat a computer is so much more than the idle machines on our desks and the servers in backrooms. The idea that a computer is a universal machine that can be anything you can imagine. They can exist in any shape or form in the physical world, with functions limited only by your imagination. They are intelligence behind the devices in your pocket, the home appliances that make life easy, the rovers exploring Mars, the [telescopes](https://en.wikipedia.org/wiki/James_Webb_Space_Telescope) unveiling mysteries of the universe, the life-saving medical devices, and one day, the synthetic creatures and [artificial life-forms](https://books.google.fi/books/about/The_Lifecycle_of_Software_Objects.html?id=8kYERQAACAAJ&redir_esc=y) that may redefine what it means to be alive.
+
 The Arduino Piscine is designed with projects that gradually increase in complexity. Since the hardware components will be reused for each project, you are instructed to record videos of your working project in action. The videos will be used for evaluations, and must demonstrate that your project works as expected.
 
 The focus here is on learning to work with the Arduino in a weekend, we will not have strict norm requirements for the project. The idea is to give you an introduction to embedded systems, and inspire you to make amazing projects. After this Piscine, the equipment will stay on campus for you to use, we hope you will revisit your projects and continue developing them in the future.
 
-The projects will be split into [fundamental](#foundation-projects) and advanced sections. Fundamental projects will introduce you to the basics of working with an Arduino, designing schematics, and controlling inputs and outputs. From there, you will have the option to create anything you want. If you don't know what to make, you can continue to follow the advanced projects.
+The projects are split into [foundational](#foundation-projects) and [advanced](#advanced-projects) sections. The Foundational projects will introduce you to the basics of working with an Arduino, designing schematics, and controlling inputs and outputs. From there, you will have the option to create anything you want. If you don't know what to make, you can continue to follow the advanced projects.
 
 ## Safety
 As with any hobby or craft, you are responsible to take care of yourself and those around you. Especially when working with electronics, take extra-precaution and please use common sense. You will be working with basic hand tools, battery powered electrical devices, and cutters. It can be easy to damage Arduino boards if you are not careful, so if you have any uncertainties or questions, it's best to inform yourself before trying anything you're unsure about.
@@ -70,3 +72,4 @@ Now go forth budding engineers, let there be photons.
 | Description | Pretend there is a single lane bridge. You must implement 2 sets of traffic lights at each end of this bridge. The lights will allow traffic to flow only in one direction at a time. When sensors at either end of a bridge detect a car waiting at a red light, the lights will change to allow traffic to flow in the opposite direction. |
 | Hardware | <ul><li>2 red LEDs (LED1 and LED2)</li><li>2 yellow LEDs (LED3 and LED4)</li><li>2 green LEDs (LED5 and LED6)</li><li>6 60 Ω resistors (R1 to R6)</li><li>2 10 kΩ resistor (R7 and R8)</li><li>2 100 nF capacitors (C1 and C2)</li><li>2 push buttons (S1 and S2)</li><li>1 medium-sized breadboard</li><li>1 Arduino and USB cable</li><li>Various connecting wires</li></ul> |
 
+## Advanced Projects

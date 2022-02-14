@@ -81,3 +81,27 @@ At this point, you might have many ideas of your own. You are welcome to make an
 
 ### Idea 01
 Create an artificial general intelligence capable of beating the turing test, and writing code for you. It may take any physical form factor, so long as it can convince your evaluator that it is a conscious intelligence.
+
+### Idea 02
+Display temperature data on a Serial Monitor.
+
+### Idea 03
+Build a display that you can send texts to, and it will display the message.
+
+### Idea 04
+Build a remote-controlled car
+
+### Idea 05
+Build a self balancing motorbike
+
+### Idea 06
+Add remote control functionality to the motorbike.
+
+### Idea 07
+Build a remote controlled tank that fires infrared signalls, and surrounded with infrared receivers.
+
+### Idea 08
+Build a second remote controlled tank.
+
+### Idea 09
+Have a laser-tag tank war.

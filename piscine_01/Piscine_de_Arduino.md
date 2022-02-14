@@ -130,8 +130,7 @@ In this section you will learn:
 | Ex 12 | Building and Controlling a Tank Robot |
 | ----- | ------------------------------------- |
 | Description | You have now managed to build the basic components of what would be needed in a Tank Robot. It's up to you now to figure out how to build one using the knowledge you have gained. How it is controlled can be up to you, will you automate it? or do would you prefer to remote control it? At the very least, it should demonstrate movement capabilities |
-| Harware | The hardware requirements will be open ended for this. You can choose to a pre-build chassis, or make a tank chassis out of toilet rolls, the choice is yours. There are some important components however: <ul><li>Arduino and USB cable</li><li>DFRobot 2A Arduino Motor Shield</li><li>6 Alkaline AA cells</li></ul>
-The rest is up to you |
+| Harware | The hardware requirements will be open ended for this. You can choose to a pre-build chassis, or make a tank chassis out of toilet rolls, the choice is yours. There are some important components however: <ul><li>Arduino and USB cable</li><li>DFRobot 2A Arduino Motor Shield</li><li>6 Alkaline AA cells</li></ul> The rest is up to you |
 
 ---
 ### Exercise 13

@@ -136,7 +136,7 @@ In this section you will learn:
 ### Exercise 13
 | Ex 13 | Tank Wars |
 | ----- | --------- |
-| Description | Now that you have build your Tank, set up a battle arena and start a tank war. Players agree on the rules, there is only one condition to pass this project. You must win. |
+| Description | Now that you have built your Tank, set up a battle arena and start a tank war. Players agree on the rules, there is only one condition to pass this project. You must win. |
 
 ## Advanced Projects
 Well done on getting this far! At this point, you would have learnt a lot about embedded systems already. We hope that it has inspired you with many ideas, and you feel empowered by the possibilities of what you can achieve. 

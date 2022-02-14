@@ -9,7 +9,7 @@ We have designed the Arduino Piscine as an introduction to embedded systems, wit
 
 We hope that this will inspire your inner engineer, and get you to dream of even greater possibilities for what you can do. We look forward to seeing what you make!
 
-The projects below are split into [foundational](#foundation-projects), [intermediate](#intermediate-projects) and [advanced](#advanced-projects) sections. The Foundational projects will introduce you to the basics of working with an Arduino, designing schematics, and controlling inputs and outputs. They will come with the list of hardware components you need for each project, you may only use the listed components. The intermediate projects will expand on what you learned, involving more sophistical input instruments. Once you reached the advanced sections, you will have the option to create anything you want. If you don't know what to make, you can continue to follow the advanced projects. The advanced projects are really just to guide your ideas, so have looser requirements.
+The projects below are split into [foundational](#foundation-projects), [intermediate](#intermediate-projects) and [advanced](#advanced-projects) sections. The Foundational projects will introduce you to the basics of working with an Arduino, designing schematics, and controlling inputs and outputs. They will come with the list of hardware components you need for each project, you may only use the listed components. The intermediate projects will expand on what you learned, developing more work with analog sensors and motors. Once you reached the advanced section, you will have the option to create anything you want. If you don't know what to make, you can continue to follow the advanced projects. The advanced projects are really just to guide your ideas, so have looser requirements.
 
 ## Safety
 As with any hobby or craft, you are responsible to take care of yourself and those around you. Especially when working with electronics, take extra-precaution and please use common sense. You will be working with basic hand tools, battery powered electrical devices, and cutters. It can be easy to damage Arduino boards if you are not careful, so if you have any uncertainties or questions, it's best to inform yourself before trying anything you're unsure about.
@@ -97,6 +97,13 @@ Now go forth budding engineers, let there be photons.
 | Hardware | <ul><li>3 560 Ω resistors</li><li>1 red LED</li><li>1 green LED</li><li>1 blue LED</li><li>1 TMP36 temperature sensor</li><li>1 breadboard</li><li>1 Arduino and USB cable</li><li>Various connecting wires</li></ul> |
 
 ## Intermediate Projects
+In this section you will learn:
+* How to use a servo
+* Use infraret and ultrasonic distance sensors
+* how to control the speed and direction of electric motors
+* how to use an Arduino motor shield
+* begin work with a motorized  tank robot
+* use simple microswitches for collision avoidance
 
 ---
 ### Exercise 10

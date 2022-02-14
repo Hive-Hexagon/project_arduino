@@ -5,11 +5,11 @@ The goal of this Piscine is to introduce you to a powerful idea. The idea that a
 
 Computers are the intelligence silently running the world around us. They are there in your pockets, in the air-conditioners on campus, and in your cars monitoring and controlling its many internal functions. Getting food to your table, and powering your lights involves nothing short of a series of minor technological miracles in planning, transport and storage. The management of logistical networks, communication systems, electrical grids, and agrigultural production equipment all involve sophisticated computational equipment. Computers control the [rovers](https://en.wikipedia.org/wiki/Perseverance_(rover)) currently exploring the surface of Mars, the deep-space [observatories](https://en.wikipedia.org/wiki/James_Webb_Space_Telescope) unveiling mysteries of the universe, and many other scientific instruments expanding the frontiers of knowledge. It's not that everything is carrying around armies of laptops. Instead, most computers in the world are small invisible "parts" embedded into the equipment we use. These are [Embedded Systems](https://en.wikipedia.org/wiki/Embedded_system). Perhaps one day, they may even give rise to synthetic creatures and [artificial life-forms](https://books.google.fi/books/about/The_Lifecycle_of_Software_Objects.html?id=8kYERQAACAAJ&redir_esc=y) that redefine what it means to be alive.
 
-We have designed the Arduino Piscine as an introduction to embedded systems, with projects that gradually increase in complexity. There will not be any strict norm requirements for the projects either. You are instructed to record videos of your projects working in action, which will then be used for evaluations at the end of the Piscine. This is because you will need to reuse the hard-ware components for each project.
+We have designed the Arduino Piscine as an introduction to embedded systems, with projects that gradually increase in complexity. There will not be any strict norm requirements for the projects either, but you will need to show your code to your evaluator. You are instructed to record videos of your projects working in action, which will then be used for evaluations at the end of the Piscine. This is because you will need to reuse the hard-ware components for each project.
 
 We hope that this will inspire your inner engineer, and get you to dream of even greater possibilities for what you can do. We look forward to seeing what you make!
 
-The projects below are split into [foundational](#foundation-projects) and [advanced](#advanced-projects) sections. The Foundational projects will introduce you to the basics of working with an Arduino, designing schematics, and controlling inputs and outputs. They will come with the list of hardware components you need for each project, you may only use the listed components. Once you reached the advanced sections, you will have the option to create anything you want. If you don't know what to make, you can continue to follow the advanced projects. The advanced projects are really just to guide your ideas, so have looser requirements.
+The projects below are split into [foundational](#foundation-projects), [intermediate](#intermediate-projects) and [advanced](#advanced-projects) sections. The Foundational projects will introduce you to the basics of working with an Arduino, designing schematics, and controlling inputs and outputs. They will come with the list of hardware components you need for each project, you may only use the listed components. The intermediate projects will expand on what you learned, involving more sophistical input instruments. Once you reached the advanced sections, you will have the option to create anything you want. If you don't know what to make, you can continue to follow the advanced projects. The advanced projects are really just to guide your ideas, so have looser requirements.
 
 ## Safety
 As with any hobby or craft, you are responsible to take care of yourself and those around you. Especially when working with electronics, take extra-precaution and please use common sense. You will be working with basic hand tools, battery powered electrical devices, and cutters. It can be easy to damage Arduino boards if you are not careful, so if you have any uncertainties or questions, it's best to inform yourself before trying anything you're unsure about.
@@ -27,6 +27,8 @@ With these projects, you will learn:
 * About the resistor, light-emitting diode (LED), breadboard, transistor, rectifier diode, relay, and capacitor.
 * How to read schematics, and the language of electronic circuits.
 * How to use digital input and outputs to create light effects
+* The difference between analog and digital
+* Measure analog voltage sources at different levels of precision
 
 Now go forth budding engineers, let there be photons.
 
@@ -73,6 +75,13 @@ Now go forth budding engineers, let there be photons.
 | ----- | -------------- |
 | Description | Pretend there is a single lane bridge. You must implement 2 sets of traffic lights at each end of this bridge. The lights will allow traffic to flow only in one direction at a time. When sensors at either end of a bridge detect a car waiting at a red light, the lights will change to allow traffic to flow in the opposite direction. |
 | Hardware | <ul><li>2 red LEDs (LED1 and LED2)</li><li>2 yellow LEDs (LED3 and LED4)</li><li>2 green LEDs (LED5 and LED6)</li><li>6 60 Ω resistors (R1 to R6)</li><li>2 10 kΩ resistor (R7 and R8)</li><li>2 100 nF capacitors (C1 and C2)</li><li>2 push buttons (S1 and S2)</li><li>1 medium-sized breadboard</li><li>1 Arduino and USB cable</li><li>Various connecting wires</li></ul> |
+
+---
+### Exercise 07
+| Ex 07 | Single-Cell Battery Tester |
+| ----- | -------------------------- |
+| Description | Measure the voltage of a battery, and express the battery condition visually with LEDs |
+| Hardware | <ul><li>3 560 Ω resistors</li><li>1 2.2kΩ resistor</li><li>1 green LED</li><li>1 yellow LED</li><li>1 red LED</li><li>1 breadboard</li><li>1 Arduino and USB cable</li><li>Various connecting wires</li></ul> |
 
 ## Advanced Projects
 Well done on getting this far! At this point, you would have learnt a lot about embedded systems already. We hope that it has inspired you with many ideas, and you feel empowered by the possibilities of what you can achieve. 

@@ -118,6 +118,13 @@ In this section you will learn:
 | Description | Modify the analog thermometer you have built and implement distance sensors instead. You will use the same servo which will rotate to the angle that matches the proximity of an object to the sensor. The closer the object, the higher the rotaation. Demonstrate this using an Ultrasonic Distance sensor, then an IR Distance sensor |
 | Hardware | Same as above, but replace the temperature sensor with the Ultrasonic sensor, then IR sensor | 
 
+---
+### Exercise 11
+| Ex 11 | Motor Control |
+| ----- | ------------- |
+| Description | You will not work with controlling a small electric motor. Your project will demonstrate control over the speed of a motor |
+| Hardware | <ul><li>1 small 3 V electric motor</li><li>1 1 kW resistor (R1)</li><li>1 breadboard</li><li>1 1N4004 diode</li><li>1 TIP120 Darlington transistor</li><li>A separate 3 V power source (i.e. a 2 cell AA battery pack)</li><li>1 Arduino and USB cable</li><li>Various connecting wires</li></ul> |
+
 ## Advanced Projects
 Well done on getting this far! At this point, you would have learnt a lot about embedded systems already. We hope that it has inspired you with many ideas, and you feel empowered by the possibilities of what you can achieve. 
 

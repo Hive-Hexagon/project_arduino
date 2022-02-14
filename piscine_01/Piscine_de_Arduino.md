@@ -89,6 +89,13 @@ Now go forth budding engineers, let there be photons.
 | Description | Use the TMP36 temperature sensor to create a quick-read thermometor. When the temperature falls below 20 degrees Celcius, a blue LED turns on. When the temperature is between 20 and 26 degrees, a green LED turns on, and when the temperature is above 26 degrees, a red LED turns on. |
 | Hardware | <ul><li>3 560 Ω resistors</li><li>1 red LED</li><li>1 green LED</li><li>1 blue LED</li><li>1 TMP36 temperature sensor</li><li>1 breadboard</li><li>1 Arduino and USB cable</li><li>Various connecting wires</li></ul> |
 
+---
+### Exercise 09
+| Ex 09 | Electronic Dice |
+| ----- | --------------- |
+| Description | Create an electronic die with 6 LEDs. Your project is to light one of six LEDs randomly to mimic the throw of a die. You will create a function that chooses a random number between 1 and 6, and turn on a corresponding LED. You will have a function that selects one of six LEDs randomly and keeps the LED on for a period of time. When the Arduino running the sketch is turned on or reset, it should rapidly show random LEDs for a specified period of time and then gradually slow until the final LED is lit. The LED matching the resulting randomly chosen number will stay on until the Arduino is reset or turned off. |
+| Hardware | <ul><li>6 LEDs of any color</li><li>1 560 Ω resistor</li><li>1 medium-sized breadboard</li><li>1 Arduino and USB cable</li><li>Various connecting wires</li></ul> |
+
 ## Advanced Projects
 Well done on getting this far! At this point, you would have learnt a lot about embedded systems already. We hope that it has inspired you with many ideas, and you feel empowered by the possibilities of what you can achieve. 
 

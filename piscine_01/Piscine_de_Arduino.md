@@ -122,7 +122,7 @@ In this section you will learn:
 ### Exercise 11
 | Ex 11 | Motor Control |
 | ----- | ------------- |
-| Description | You will not work with controlling a small electric motor. Your project will demonstrate control over the speed of a motor |
+| Description | You will now work with controlling a small electric motor. Your project will demonstrate control over the speed of a motor |
 | Hardware | <ul><li>1 small 3 V electric motor</li><li>1 1 kW resistor (R1)</li><li>1 breadboard</li><li>1 1N4004 diode</li><li>1 TIP120 Darlington transistor</li><li>A separate 3 V power source (i.e. a 2 cell AA battery pack)</li><li>1 Arduino and USB cable</li><li>Various connecting wires</li></ul> |
 
 ## Advanced Projects

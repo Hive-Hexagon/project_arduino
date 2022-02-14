@@ -28,7 +28,6 @@ With these projects, you will learn:
 * How to read schematics, and the language of electronic circuits.
 * How to use digital input and outputs to create light effects
 * The difference between analog and digital
-* Measure analog voltage sources at different levels of precision
 
 Now go forth budding engineers, let there be photons.
 
@@ -81,7 +80,14 @@ Now go forth budding engineers, let there be photons.
 | Ex 07 | Single-Cell Battery Tester |
 | ----- | -------------------------- |
 | Description | Measure the voltage of a battery, and express the battery condition visually with LEDs |
-| Hardware | <ul><li>3 560 Ω resistors</li><li>1 2.2kΩ resistor</li><li>1 green LED</li><li>1 yellow LED</li><li>1 red LED</li><li>1 breadboard</li><li>1 Arduino and USB cable</li><li>Various connecting wires</li></ul> |
+| Hardware | <ul><li>3 560 Ω resistors</li><li>1 2.2 kΩ resistor</li><li>1 green LED</li><li>1 yellow LED</li><li>1 red LED</li><li>1 breadboard</li><li>1 Arduino and USB cable</li><li>Various connecting wires</li></ul> |
+
+---
+### Exercise 08
+| Ex 08 | Quick-Read Thermometer |
+| ----- | ---------------------- |
+| Description | Use the TMP36 temperature sensor to create a quick-read thermometor. When the temperature falls below 20 degrees Celcius, a blue LED turns on. When the temperature is between 20 and 26 degrees, a green LED turns on, and when the temperature is above 26 degrees, a red LED turns on. |
+| Hardware | <ul><li>3 560 Ω resistors</li><li>1 red LED</li><li>1 green LED</li><li>1 blue LED</li><li>1 TMP36 temperature sensor</li><li>1 breadboard</li><li>1 Arduino and USB cable</li><li>Various connecting wires</li></ul> |
 
 ## Advanced Projects
 Well done on getting this far! At this point, you would have learnt a lot about embedded systems already. We hope that it has inspired you with many ideas, and you feel empowered by the possibilities of what you can achieve. 

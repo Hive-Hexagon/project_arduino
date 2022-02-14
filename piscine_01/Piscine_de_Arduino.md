@@ -159,12 +159,3 @@ Build a self balancing motorbike
 
 ### Idea 06
 Add remote control functionality to the motorbike.
-
-### Idea 07
-Build a remote controlled tank that fires infrared signalls, and surrounded with infrared receivers.
-
-### Idea 08
-Build a second remote controlled tank.
-
-### Idea 09
-Have a laser-tag tank war.

@@ -75,3 +75,9 @@ Now go forth budding engineers, let there be photons.
 | Hardware | <ul><li>2 red LEDs (LED1 and LED2)</li><li>2 yellow LEDs (LED3 and LED4)</li><li>2 green LEDs (LED5 and LED6)</li><li>6 60 Ω resistors (R1 to R6)</li><li>2 10 kΩ resistor (R7 and R8)</li><li>2 100 nF capacitors (C1 and C2)</li><li>2 push buttons (S1 and S2)</li><li>1 medium-sized breadboard</li><li>1 Arduino and USB cable</li><li>Various connecting wires</li></ul> |
 
 ## Advanced Projects
+Well done on getting this far! At this point, you would have learnt a lot about embedded systems already. We hope that it has inspired you with many ideas, and you feel empowered by the possibilities of what you can achieve. 
+
+At this point, you might have many ideas of your own. You are welcome to make anything your heart desires! If you aren't sure what to do, then we have also compiled a list of ideas to get you started. You can follow them in any order you desire. Please note that we may not have all the equipment needed. You could make a suggestion to Hexagon about it. Or better yet, think about any old electronics or toys you have lying around, perhaps some of these are no longer being used? you could consider taking them apart and reusing their components for your own projects!
+
+### Idea 01
+Create an artificial general intelligence capable of beating the turing test, and writing code for you. It may take any physical form factor, so long as it can convince your evaluator that it is a conscious intelligence.

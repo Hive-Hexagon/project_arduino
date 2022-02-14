@@ -125,6 +125,20 @@ In this section you will learn:
 | Description | You will now work with controlling a small electric motor. Your project will demonstrate control over the speed of a motor. You program will need to adjust the motor from still (zero) to the maximum and then reduce it back to zero. You may then try and modify this with an ultrasonic sensor. Using  the sensor, the motor should speed up and become faster the closer the object is. As the object moves away, the motor then slows down. |
 | Hardware | <ul><li>1 small 3 V electric motor</li><li>1 1 kW resistor (R1)</li><li>1 breadboard</li><li>1 1N4004 diode</li><li>1 TIP120 Darlington transistor</li><li>A separate 3 V power source (i.e. a 2 cell AA battery pack)</li><li>1 Arduino and USB cable</li><li>Various connecting wires</li></ul> |
 
+---
+### Exercise 12
+| Ex 12 | Building and Controlling a Tank Robot |
+| ----- | ------------------------------------- |
+| Description | You have now managed to build the basic components of what would be needed in a Tank Robot. It's up to you now to figure out how to build one using the knowledge you have gained. How it is controlled can be up to you, will you automate it? or do would you prefer to remote control it? At the very least, it should demonstrate movement capabilities |
+| Harware | The hardware requirements will be open ended for this. You can choose to a pre-build chassis, or make a tank chassis out of toilet rolls, the choice is yours. There are some important components however: <ul><li>Arduino and USB cable</li><li>DFRobot 2A Arduino Motor Shield</li><li>6 Alkaline AA cells</li></ul>
+The rest is up to you |
+
+---
+### Exercise 13
+| Ex 13 | Tank Wars |
+| ----- | --------- |
+| Description | Now that you have build your Tank, set up a battle arena and start a tank war. Players agree on the rules, there is only one condition to pass this project. You must win. |
+
 ## Advanced Projects
 Well done on getting this far! At this point, you would have learnt a lot about embedded systems already. We hope that it has inspired you with many ideas, and you feel empowered by the possibilities of what you can achieve. 
 

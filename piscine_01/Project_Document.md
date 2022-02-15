@@ -6,7 +6,7 @@
 ## Summary
 A Piscine type event focused on learning to work with Arduinos. The aim is to introduce students to embedded systems, and develop their interest in electronics. It will be an entirely solderless event, and should be safe to run on Hive Campus. 
 
-A set of introductory projects is designed by the Hexagon team, and the event will take place over a weekend. Afterwards, the electronics and equipment will be stored at the Campus library for any student to access. Students will hopefully be inspired to return to their projects in their own time, with the experience gained from the Piscine.
+A set of introductory projects is designed by the Hexagon team, and the event will take place over a weekend. Afterwards, the electronics and equipment will be stored at the Campus library for any student to access. Students will hopefully be inspired to return to their projects in their own time, with the experience gained from the Piscine. The same equipment can then be used to organise more future events.
 
 Should this project be successful, we may consider further expanding on this concept and use it as a springboard to partner with Universities & Companies for bigger projects
 

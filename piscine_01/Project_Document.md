@@ -11,12 +11,14 @@ A set of introductory projects is designed by the Hexagon team, and the event wi
 Should this project be successful, we may consider further expanding on this concept and use it as a springboard to partner with Universities & Companies for bigger projects
 
 ## Objectives
-* Create a fun piscine type of weekend project focused on Arduino programming and electronics.
-* Introduce students to embedded systems.
+* Create a fun piscine type of weekend project focused on Arduino programming and electronics, which will introduce students to embedded systems.
+* Initiate initerest in on-going (solderless) electronics work by students on campus.
+* Set the foundation for future electronics projects and events.
+* Create a marketable event to showcase student talents in working with embedded systems.
 
 ## Activities
 * A Weekend Piscine.
-* Projects will be done as groups of up to 3 people, an estiated 20 groups (based one previous attendance to Hive's Game Jam)
+* Projects will be done as groups of up to 3 people, for an estimated 20 groups (based one previous attendance to Hive's Game Jam which included around 60 people)
 * The project evaluations begin on Sunday afternoon.
 * Since the hardware components are going to be re-used between projects, students are instructed to record videos of their projects in action. The videos will be used for evaluations.
 * To keep things simple, the evaluation requirements will require students to show a working project, and can be evaluated on paper.

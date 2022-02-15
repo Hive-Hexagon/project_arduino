@@ -27,7 +27,7 @@ Should this project be successful, we may consider further expanding on this con
 * The list of equipment will be listed in the budget section.
 
 ## Timeline
-The event will take place on a suitable weekend agreed upon by Hexagon board and Hive. Students will be notified well in advance of the event, to help make preparations. Here's an example of how the weekend will unfold.
+The event will take place on a suitable weekend agreed upon by Hexagon board and Hive. Ideally, the event can take place in April-May 2021. Students will be notified well in advance of the event, to help make preparations. Here's an example of how the weekend will unfold.
 * Event announcement on Intraa - 1 month before the event
 * Pre-event Q&A - 2 Weeks before the event.
 * Friday:

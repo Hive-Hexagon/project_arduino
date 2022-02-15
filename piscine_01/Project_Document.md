@@ -35,7 +35,7 @@ The event will take place on a suitable weekend agreed upon by Hexagon board and
 	* After the introduction, students will form their groups, and register their group by 6pm.
 * Saturday - Everyone will be focused on making their projects.
 * Sunday:
-	* The project work will end t 3:42, and students will need to evaluate each other's projects after that.
+	* The project work will end at 3:42, and students will need to evaluate each other's projects after that.
 
 ## Budget
 Bulk of the budget will be devoted to initial equipment purchases.
@@ -50,7 +50,7 @@ Bulk of the budget will be devoted to initial equipment purchases.
 | 100 Pcs RGB Tri-color 4 Pin LED | 8.10 | 1 | 8.10 | [Amazon](https://www.amazon.com/EDGELEC-Tri-Color-Multicolor-Diffused-Resistors/dp/B077XGF3YR/ref=sr_1_5?crid=1F0M6IV1LJ3B&keywords=rgb+led&qid=1644929065&sprefix=rob+l%2Caps%2C141&sr=8-5) |
 | 200 Pcs Push buttons | 9 | 1 | 9 | [Amazon](https://www.amazon.com/BOJACK-Pushbutton-Switches-Momentary-Assortment/dp/B07ZBHXBZ4/ref=sr_1_2_sspa?crid=1Z38S31YCT5OZ&keywords=tactile+switch&qid=1644923280&sprefix=tactile+switc%2Caps%2C166&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFNR0U0VjIzRk9INVgmZW5jcnlwdGVkSWQ9QTAwNDc0ODVEWFRLNFRVRzdQQ1omZW5jcnlwdGVkQWRJZD1BMDE1NDU3NDJaUFRaMFZCQjUzQUsmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl) |
 | 230 pcs capacitor set | 10.80 | 1 | 10.80 | [Amazon](https://www.amazon.com/Cenrykay-Ceramic-Capacitor-Capacitors-Assortment/dp/B07KG3F6M3/ref=sr_1_2_sspa?crid=2E5V10BITXSPV&keywords=capacitor+set&qid=1644923355&sprefix=capacitor+set%2Caps%2C132&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFTOUxBRDZUQUk3RVEmZW5jcnlwdGVkSWQ9QTEwMjU1MzFXSzU5WDdSUUM1N0YmZW5jcnlwdGVkQWRJZD1BMDcwMjgzMjIwNDU5UDFSSlMyVFMmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl) |
-| Monoprice 1.5ft USB 2.a A Male to B Male | 4.49 | 20 | 89.8 | [Amazon](https://www.amazon.com/Monoprice-1-5-Feet-24AWG-Plated-105436/dp/B009GUVZOK/ref=sr_1_3?crid=39XR2LAV497W7&keywords=Monoprice%2B1.5%2Bfoot%2Busb%2Ba%2Bto%2Bb&qid=1644923446&sprefix=monoprice%2B1.5%2Bfoot%2Busb%2Ba%2Bto%2Bb%2Caps%2C131&sr=8-3&th=1) |
+| Monoprice 1.5ft USB 2 A Male to B Male | 4.49 | 20 | 89.8 | [Amazon](https://www.amazon.com/Monoprice-1-5-Feet-24AWG-Plated-105436/dp/B009GUVZOK/ref=sr_1_3?crid=39XR2LAV497W7&keywords=Monoprice%2B1.5%2Bfoot%2Busb%2Ba%2Bto%2Bb&qid=1644923446&sprefix=monoprice%2B1.5%2Bfoot%2Busb%2Ba%2Bto%2Bb%2Caps%2C131&sr=8-3&th=1) |
 | 5 pcs TMP36 sensor | 10.53 | 4 | 42.12 | [Amazon](https://www.amazon.com/KOOKYE-Temperature-TMP36-Precision-Raspberry/dp/B01GH32AQU/ref=sr_1_5?keywords=tmp36%2Btemperature%2Bsensor&qid=1644923626&sprefix=tmp36%2Bte%2Caps%2C131&sr=8-5&th=1) |
 | 10 pcs SG90 9G Micro Servo | 20.71 | 2 | 41.42 | [Amazon](https://www.amazon.com/Smraza-Helicopter-Airplane-Control-Arduino/dp/B07L2SF3R4/ref=sr_1_6?crid=1CFDDF6A94P1P&keywords=9g+micro+servo&qid=1644923829&sprefix=9g+micro+servo%2Caps%2C148&sr=8-6) |
 | 5 Pcs HC-SR04 Ultrasonic sensor | 9 | 4 | 36 | [Amazon](https://www.amazon.com/ELEGOO-HC-SR04-Ultrasonic-Distance-MEGA2560/dp/B01COSN7O6/ref=sr_1_2_sspa?crid=1E99XOWG4TAVD&keywords=ultrasonic+sensor&qid=1644923884&sprefix=ultrasonic+senso%2Caps%2C133&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFEQkpEUktHMEcwUTQmZW5jcnlwdGVkSWQ9QTA2MTQ4NzFGUUtFSExWN0VVQUcmZW5jcnlwdGVkQWRJZD1BMDI2ODAzNTFLVUFLMVdPUVk2Ulgmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl) |

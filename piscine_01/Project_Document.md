@@ -28,6 +28,7 @@ Should this project be successful, we may consider further expanding on this con
 
 ## Timeline
 The event will take place on a suitable weekend agreed upon by Hexagon board and Hive. Students will be notified well in advance of the event, to help make preparations. Here's an example of how the weekend will unfold.
+* Event announcement on Intraa - 1 month before the event
 * Pre-event Q&A - 2 Weeks before the event.
 * Friday:
 	* The Event begins at around 4pm on campus, the equipment will be shown to students, and then the Piscine document will be shared.

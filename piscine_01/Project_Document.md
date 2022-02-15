@@ -16,7 +16,7 @@ Should this project be successful, we may consider further expanding on this con
 
 ## Activities
 * A Weekend Piscine.
-* Projects will be done as groups of up to 3 people.
+* Projects will be done as groups of up to 3 people, an estiated 20 groups (based one previous attendance to Hive's Game Jam)
 * The project evaluations begin on Sunday afternoon.
 * Since the hardware components are going to be re-used between projects, students are instructed to record videos of their projects in action. The videos will be used for evaluations.
 * To keep things simple, the evaluation requirements will require students to show a working project, and can be evaluated on paper.

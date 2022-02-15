@@ -52,9 +52,11 @@ Bulk of the budget will be devoted to initial equipment purchases.
 | 10 pcs TMP36 sensor | 15.30 | 2 | 30.60 | Amazon |
 | 10 pcs SG90 9G Micro Servo | 20.71 | 2 | 41.42 | Amazon |
 | 5 Pcs HC-SR04 Ultrasonic sensor | 9 | 4 | 36 | Amazon |
-| 20 Pcs IR obstacle avoidancce sensor | 11.70 | 2 | 23.40 | Amazon |
+| 20 Pcs IR obstacle avoidance sensor | 11.70 | 2 | 23.40 | Amazon |
 | EUDAX 18 Set DC Motors Kit with plastic gears| 26.99 | 2 | 53.98 | Amazon |
 | Arduino Motor Shield REV3 | 24.32 | 10 | 243.2 | Amazon |
 | HUAREW 300 pcs rectifier diodes | 9.82 | 1 | 9.82 | Amazon |
 | BOJACK 50 Pcs Transistors | 14.40 | 1 | 14.40 | Amazon | 
 | Amazon basics 8 pcs AA batteries | 4.95 | 5 | 24.75 | Amazon |
+| --- | --- | --- | --- | --- |
+| Total | | | 1217.38 - 1388.78 | | 

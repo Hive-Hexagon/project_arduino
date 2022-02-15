@@ -62,3 +62,5 @@ Bulk of the budget will be devoted to initial equipment purchases.
 | Amazon basics 8 pcs AA batteries | 4.95 | 5 | 24.75 | [Amazon](https://www.amazon.com/AmazonBasics-Performance-Alkaline-Batteries-8-Pack/dp/B00O869KJE/ref=sr_1_1_sspa?crid=3KWKG0VNZUPYS&keywords=aa+batteries&qid=1644924276&sprefix=aa+batterie%2Caps%2C134&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyTk42WlBWWVFMU0pLJmVuY3J5cHRlZElkPUEwODE0NTUzMkQxMUtFWExSVVFJTyZlbmNyeXB0ZWRBZElkPUEwODQyNjg1MlNONzlKOVRNQkpUQyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=) |
 | --- | --- | --- | --- | --- |
 | Total | | | 1233.07 - 1404.47 | | 
+
+The lower price range for the Arduino Uno are based on Third-party products (namely Elegoo boarts) prices. The cost exclused shipping costs.

@@ -108,13 +108,13 @@ In this section you will learn:
 ### Exercise 10
 | Ex 10 | Analog Thermometer |
 | ----- | ------------------ |
-| Description | Using a servo and the TMP36 temperature sensor, build an analog thermometer. You will measure the temperature and the nconvert this measurement to an angle between 0 and 180 degrees to indicate a temperature between 0 and 30 degrees Celsius. The servo will rotate to the angle that matches the current temperature |
+| Description | Using a servo and the TMP36 temperature sensor, build an analog thermometer. You will measure the temperature and then convert this measurement to an angle between 0 and 180 degrees to indicate a temperature between 0 and 30 degrees Celsius. The servo will rotate to the angle that matches the current temperature |
 | Hardware | <ul><li>1 TMP36 temperature sensor</li><li>1 breadboard</li><li>1 small servo</li><li>1 Arduino and USB cable</li><li>Various connecting wires</li></ul> |
 
 ### Exercise 10 - Bonus
 | Ex 10 - Bonus | Distance Sensors | 
 | ------------- | ---------------- |
-| Description | Modify the analog thermometer you have built and implement distance sensors instead. You will use the same servo which will rotate to the angle that matches the proximity of an object to the sensor. The closer the object, the higher the rotaation. Demonstrate this using an Ultrasonic Distance sensor, then an IR Distance sensor |
+| Description | Modify the analog thermometer you have built and implement distance sensors instead. You will use the same servo which will rotate to the angle that matches the proximity of an object to the sensor. The closer the object, the higher the rotation. Demonstrate this using an Ultrasonic Distance sensor, then an IR Distance sensor |
 | Hardware | Same as above, but replace the temperature sensor with the Ultrasonic sensor, then IR sensor | 
 
 ---

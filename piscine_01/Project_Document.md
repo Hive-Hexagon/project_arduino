@@ -66,3 +66,8 @@ Bulk of the budget will be devoted to initial equipment purchases.
 | Total | | | 1404.47 | | 
 
 The cost exclused shipping costs.
+
+Prices fluctuate over time, as of 6 March, total cost is 1466.37
+Shipping costs are about 368.76. This brings it to a total of 1834.22, the import fee deposit 471.26.
+
+The total after fees is 2305.48

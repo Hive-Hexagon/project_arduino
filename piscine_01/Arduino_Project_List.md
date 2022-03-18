@@ -1,4 +1,4 @@
-# Piscine de Arduino
+# Arduino Project Workshop
 *pedago: cchen@student.hive.fi*
 
 The goal of this Piscine is to introduce you to a powerful idea. The idea that a computer is far more than the idle machines on our desks. We want to convince you that computers are universal machines that can be anything you imagine. They can exist in many shapes and forms, with possible functions limited only by your dreams.

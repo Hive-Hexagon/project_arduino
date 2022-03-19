@@ -45,7 +45,7 @@ Now go forth budding engineers, let there be photons.
 | Ex 02 | Hello World v2 |
 | ----- | -------------- |
 | Description | Level up the Hello World. Light up a single external LED |
-| Hardware: | <ul><li>1 Breadboard</li><li>1 LED</li><li>1 220 Ω resistor</li><li>1 wire</li><li>1 Arduino & USB cable</li></ul> |
+| Hardware: | <ul><li>1 Breadboard</li><li>1 LED</li><li>1 220 Ω resistor</li><li>2 wires</li><li>1 Arduino & USB cable</li></ul> |
 
 ---
 ### Exercise 03

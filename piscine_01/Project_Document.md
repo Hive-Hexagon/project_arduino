@@ -1,14 +1,12 @@
-# Arduino Piscine
+# RoboClub
 
 ## Project Team:
 * Caruy Chen - Project Lead
 
 ## Summary
-A Piscine type event focused on learning to work with Arduinos. The aim is to introduce students to embedded systems, and develop their interest in electronics. It will be an entirely solderless event, and should be safe to run on Hive Campus. 
+The aim is to introduce students to embedded systems, and develop their interest in electronics. It will be an entirely solderless project, and should be safe to run on Hive Campus. 
 
-A set of introductory projects is designed by the Hexagon team, and the event will take place over a weekend. Afterwards, the electronics and equipment will be stored at the Campus library for any student to access. Students will hopefully be inspired to return to their projects in their own time, with the experience gained from the Piscine. The same equipment can then be used to organise more future events.
-
-Should this project be successful, we may consider further expanding on this concept and use it as a springboard to partner with Universities & Companies for bigger projects
+We hope to initiate an ongoing club, with electronics equipment at Campus library for students to access. The idea is to meet weekly, and share ideas and make stuff.
 
 ## Objectives
 * Create a fun piscine type of weekend project focused on Arduino programming and electronics, which will introduce students to embedded systems.
@@ -16,28 +14,10 @@ Should this project be successful, we may consider further expanding on this con
 * Set the foundation for future electronics projects and events.
 * Create a marketable event to showcase student talents in working with embedded systems.
 
-## Activities
-* A Weekend Piscine.
-* Projects will be done as groups of up to 3 people, for an estimated 20 groups (based one previous attendance to Hive's Game Jam which included around 60 people)
-* The project evaluations begin on Sunday afternoon.
-* Since the hardware components are going to be re-used between projects, students are instructed to record videos of their projects in action. The videos will be used for evaluations.
-* To keep things simple, the evaluation requirements will require students to show a working project, and can be evaluated on paper.
-
 ## Tools
 * The Arduino IDE should be available on school iMacs
 * Make sure students can install drivers for the Arduino boards USB interface.
 * The list of equipment will be listed in the budget section.
-
-## Timeline
-The event will take place on a suitable weekend agreed upon by Hexagon board and Hive. Ideally, the event can take place in April-May 2021. Students will be notified well in advance of the event, to help make preparations. Here's an example of how the weekend will unfold.
-* Event announcement on Intraa - 1 month before the event
-* Pre-event Q&A - 2 Weeks before the event.
-* Friday:
-	* The Event begins at around 4pm on campus, the equipment will be shown to students, and then the Piscine document will be shared.
-	* After the introduction, students will form their groups, and register their group by 6pm.
-* Saturday - Everyone will be focused on making their projects.
-* Sunday:
-	* The project work will end at 3:42, and students will need to evaluate each other's projects after that.
 
 ## Budget
 Bulk of the budget will be devoted to initial equipment purchases.
